@@ -1,0 +1,12 @@
+{
+  "name": "rust-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rustc 240602/main.rs --out-dir .out/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
