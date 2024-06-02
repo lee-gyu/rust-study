@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "rustc 240602/main.rs --out-dir .out/"
+    "start": "sh run.sh"
   },
   "keywords": [],
   "author": "",
