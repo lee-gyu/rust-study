@@ -1,4 +1,6 @@
-
+*.rcgu.o
+**/*.exe
+**/*.pdb
 
 # Added by cargo
 
